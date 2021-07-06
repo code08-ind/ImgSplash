@@ -29,7 +29,7 @@ const License = () => {
                     <li> <FcCheckmark style={{ width: "2em", height: "2em" }} />&nbsp;&nbsp;  ImgSplash Is Not An Competing Website Or Authority</li>
                     <li> <FcCheckmark style={{ width: "2em", height: "2em" }} />&nbsp;&nbsp;  It Is just a project that fetches images from API.</li>
                     <li> <FcCheckmark style={{ width: "2em", height: "2em" }} />&nbsp;&nbsp;  The content in ImgSplash is not targeted to compete with any authority or organization which provides free images to use.</li>
-                    <li> <FcCheckmark style={{ width: "2em", height: "2em" }} />&nbsp;&nbsp;  You can modify the photos and videos from ImgSplash. Be creative and edit them as you like.</li>
+                    <li> <FcCheckmark style={{ width: "2em", height: "2em" }} />&nbsp;&nbsp;  You can modify the photos from ImgSplash. Be creative and edit them as you like.</li>
                 </ul>
             </div>
 
