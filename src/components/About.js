@@ -31,7 +31,7 @@ const About = () => {
             <div className="desc">
                 <br />
                 <h1>Make something awesome</h1>
-                <p>Unsplash was born from the pain we had in finding great, usable imagery. And we weren’t alone. Which is why, today—millions of creators from around the world have downloaded over 2 billion Unsplash images to create presentations, artwork, mockups, and more.</p>
+                <p>ImgSplash was born from the pain we had in finding great, usable imagery. And we weren’t alone. Which is why, today—millions of creators from around the world are downloading our images free of cost.</p>
                 <NavLink to="/"><button>Find The Perfect Image</button></NavLink>
                 <br />
             </div>
@@ -42,7 +42,7 @@ const About = () => {
                     </div>
                     <div className="col-sm-12 col-lg-6 second">
                         <h1>Is it really free? Yes.</h1>
-                        <p>ImgSplash is a platform powered by an amazing community that has gifted hundreds of thousands of their own photos to fuel creativity around the world. you’ve got access to over a million photos under the ImgSplash license—which makes them free to do-whatever-you-want with.</p>
+                        <p>ImgSplash is a platform powered by an amazing community that has gifted hundreds of thousands of their own photos to fuel creativity. Read more about our license and how to use our images free of cost.</p>
                         <NavLink to="/license">
                             <button className="btns">Learn More About ImgSplash License</button>
                         </NavLink>
