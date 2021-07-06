@@ -19,7 +19,7 @@ const Search = () => {
     const [images, setImages] = useState([]);
     useEffect(() => {
         const getData = async () => {
-            const API_KEY = '563492ad6f917000010000010b7199b4104247e6b8e56dcdc4bb02e4';
+            const API_KEY = '<API KEY>';
             const url = `https://api.pexels.com/v1/search/?query=${names.toLowerCase()}&page=${number}&per_page=60`;
             const response = await fetch(url, {
                 method: 'GET',
